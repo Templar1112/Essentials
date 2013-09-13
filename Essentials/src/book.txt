@@ -1,18 +1,19 @@
-This is the book file.
+1. &6&L&oWelcome To The &5&l&oEnder Scrolls Online
 
-This file format works similar to the info.txt, motd.txt and rules.txt
+2. 
 
-Place content in here that you would like to be used by books ingame.
+3. MCMMO:
+MCMMO Allows You To Rank Up Based On How Many Levels You Have Into One Skill To See Your Current Skills Do /mcstats <Your Name>
+Or Do /Inspect (Playername) To See They're Levels This Is Essential In PVP Because It Gives You Bonus's 
+That Allow You To Dodge, Take Less Fall Damage, Deflect Arrows, Do More Damage And Much Much More
+4. Races:
+The Races In Ender Scrolls Give You Buffs And Abilitys That Other Races Dont Have Like The Ability To Were
+Types Of Armour Like Chain, Gold, Diamond And Iron Or Even Leather, The Races Available Are Those
+From Elder Scrolls Games Like Khajit, Orc, Dunmer, Altmer, Nord, Imperial, Dark Elf, Redguard And More
+There Are Restrictions Though To What Races You Can Be Since You Have To Join The DaggerFall Covenent
+The Aldmeri Dominion, or the Ebonheart Pact When You Choose a Faction You Then Choose A Race After
+5. Class's:
+With Classes You Can
+6.
 
-You can use this content by using the book:<section> meta option in kits or item spawning.
-
-#Colors
-Minecraft colors:
-&0 &&0  &1 &&1  &2 &&2  &3 &&3
-&4 &&4  &5 &&5  &6 &&6  &7 &&7
-&8 &&8  &9 &&9  &a &&a  &b &&b
-&c &&c  &d &&d  &e &&e  &f &&f
-&0 
-&&k &kMagic&r   &&l &lBold
-&&m &mStrike&r  &&n &nUline
-&&o &oItalic&r   &&r &rReset
+7. Salvaging:
